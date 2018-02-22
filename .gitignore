@@ -1,0 +1,4 @@
+build
+build-meson
+__pycache__
+*.so
