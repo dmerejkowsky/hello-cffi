@@ -9,6 +9,7 @@ name = "pypi"
 
 cffi = "*"
 ipython = "*"
+wheel = "*"
 
 
 [dev-packages]
